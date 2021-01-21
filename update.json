@@ -1,10 +1,9 @@
 {
-    "latestVersion": "2.6",
-    "latestVersionCode": 32,
-    "url": "https://raw.githubusercontent.com/Sachira96/skEYEtrax-Update/main/skEYEtrax.apk",
+    "latestVersion": "4.2",
+    "latestVersionCode": 42,
+    "url": "https://drive.google.com/uc?export=download&confirm=1ZTF&id=1TH2wQ1_ppH1kyp54PusDxyG5lsa-DXnl",
     "releaseNotes": [
-    "Latest update on 10/29/2020 at 12:55 am",
-    "System Brightness Control",
-    "Always Wake Up Update"
+        "Latest update on 22/01/2021 at 02:34 am",
+        "Chat Update"
     ]
 }
